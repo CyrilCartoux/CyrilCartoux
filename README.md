@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyril</h1>
 <h3 align="center">A passionate Web Developer from France</h3>
+<h3 align="center">Learning Web3 & Solidity </h3>
 
 - 🔭 I’m currently working at [Arche-MC2](https://www.arche-mc2.fr/)
 
