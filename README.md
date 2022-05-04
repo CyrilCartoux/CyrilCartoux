@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Web Developer from France</h3>
 <h3 align="center">Learning Web3 & Solidity </h3>
 
+- 📄 READ MY DOCUMENTATION [https://6ssou.notion.site/6ssou-s-Documentation-b716d34eaa814a789a64305e22b952aa](https://6ssou.notion.site/6ssou-s-Documentation-b716d34eaa814a789a64305e22b952aa)
+- - 📄 SOLIDITY DOCUMENTATION [https://6ssou.notion.site/SOLIDITY-852bcfc9f5134493b8af0f87f576ce44](https://6ssou.notion.site/SOLIDITY-852bcfc9f5134493b8af0f87f576ce44)
+
 - 🔭 I’m currently working at [Arche-MC2](https://www.arche-mc2.fr/)
 
 - 🌱 I’m currently learning Web3 & Solidity **Web3, Hardhat, Truffle, Solidity**
@@ -12,10 +15,11 @@
 
 - 📫 How to reach me **6ssou@protonmail.com**
 
-- 📄 Read my full on Documentation [https://6ssou.notion.site/6ssou-s-Documentation-b716d34eaa814a789a64305e22b952aa](https://6ssou.notion.site/6ssou-s-Documentation-b716d34eaa814a789a64305e22b952aa)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://www.linkedin.com/in/cyril-cartoux-a6a3351a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrilcartoux" height="30" width="40" /></a>
 <a href="https://hashnode.com/@6ssou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@6ssou" height="30" width="40" /></a>
 </p>
 
