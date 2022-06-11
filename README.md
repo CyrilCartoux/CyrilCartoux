@@ -9,7 +9,6 @@
 - 🔭 I’m currently working at [Arianee](https://www.arianee.org/) 
 
 - 🌱 I’m currently learning Web3 & Solidity **Web3, Hardhat, Truffle, Solidity**
-- 
 
 - 💬 Ask me about **Angular, Web3, Solidity**
 
