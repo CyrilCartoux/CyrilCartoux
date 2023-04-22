@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cyril</h1>
 <h3 align="center">A passionate Web Developer from France</h3>
-<h3 align="center">Working as Front End Developer @Arianee</h3>
-<h3 align="center">Learning Web3 & Solidity </h3>
+<h3 align="center">Working as Fullstack Developer @Arianee</h3>
 
 - 📄 READ MY DOCUMENTATION [https://6ssou.notion.site/6ssou-s-Documentation-b716d34eaa814a789a64305e22b952aa](https://6ssou.notion.site/6ssou-s-Documentation-b716d34eaa814a789a64305e22b952aa)
 - - 📄 SOLIDITY DOCUMENTATION [https://6ssou.notion.site/SOLIDITY-852bcfc9f5134493b8af0f87f576ce44](https://6ssou.notion.site/SOLIDITY-852bcfc9f5134493b8af0f87f576ce44)
 
 - 🔭 I’m currently working at [Arianee](https://www.arianee.org/) 
-
-- 🌱 I’m currently learning Web3 & Solidity **Web3, Hardhat, Truffle, Solidity**
 
 - 💬 Ask me about **Angular, Web3, Solidity**
 
